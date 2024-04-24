@@ -1,0 +1,12 @@
+# Ignore virtual environment
+venv/
+
+# Ignore generated files
+*.pyc
+*.sqlite
+
+# Ignore sensitive or environment-specific files
+.env
+
+# Ignore local development files
+__pycache__/
