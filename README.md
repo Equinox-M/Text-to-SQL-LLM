@@ -46,12 +46,17 @@ To run this project locally, follow these steps:
 
 ## Project Structure
 
---- venv/ # Virtual environment directory
---- .env # Environment variables file
---- .gitignore # Git ignore file
---- app.py # Main application code
---- requirements.txt # Python dependencies
---- sqlite.py # Script to initialize SQLite database
+--- venv/
+
+--- .env 
+
+--- .gitignore
+
+--- app.py 
+
+--- requirements.txt 
+
+--- sqlite.py 
 
 
 ## Usage
