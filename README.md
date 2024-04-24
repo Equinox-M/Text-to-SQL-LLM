@@ -1,7 +1,7 @@
 # Text-to-SQL Gemini App
 
 ## Overview
-This project aims to provide a streamlined solution for converting English questions into SQL queries using Google's Generative AI (Gemini). With this app, users can input natural language questions related to a hypothetical student database and receive corresponding SQL queries. Additionally, the app displays query results if applicable.
+This project aims to provide a streamlined solution for converting English questions into SQL queries using Google's Generative AI (Gemini). With this app, users can input natural language questions related to a hypothetical student database and receive corresponding SQL queries. Additionally, the app displays query results if applicable.[Preview](https://huggingface.co/spaces/Equinox-M/Text-To-SQL-Gemini-Model)
 
 ![Screenshot 2024-04-24 at 10 35 35 AM](https://github.com/Equinox-M/Text-to-SQL-LLM/assets/92346639/c5b75f74-422c-401b-a49b-61b248b1f9ce)
 
