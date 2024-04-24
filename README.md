@@ -45,12 +45,13 @@ To run this project locally, follow these steps:
 3. Access the app through your browser.
 
 ## Project Structure
-├── venv/ # Virtual environment directory
-├── .env # Environment variables file
-├── .gitignore # Git ignore file
-├── app.py # Main application code
-├── requirements.txt # Python dependencies
-└── sqlite.py # Script to initialize SQLite database
+
+--- venv/ # Virtual environment directory
+--- .env # Environment variables file
+--- .gitignore # Git ignore file
+--- app.py # Main application code
+--- requirements.txt # Python dependencies
+--- sqlite.py # Script to initialize SQLite database
 
 
 ## Usage
